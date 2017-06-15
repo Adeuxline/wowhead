@@ -1,3 +1,9 @@
+Dungeon Guides
+Preparation
+Keystones
+Affixes
+Loot
+Artifact Appearances
 The Mythic+ Dungeon system is a new mode of content that offers players an endlessly scaling challenge in 5-player dungeons. The system allows players to compete against a timer, similar to Challenge Modes, but has much more lenient times so that the emphasis is on solid execution rather than pure speed.
 Insert a Mythic Keystone into the Font of Power to begin
 Mythic+ Overview
@@ -45,6 +51,11 @@ Completing a dungeon on time will work the same way as in 7.2; you'll get a new 
 If you don't complete the dungeon in time, you'll get a new Keystone for a random dungeon that's 1 level lower.
 If you don't complete the dungeon at all, you'll get a new Keystone for the same dungeon that is 1 level lower.
 Party Composition and Preparation
+Enemy Health/Damage Modifiers
+Level
+Pre 7.2.5 Modifier %
+Post 7.2.5 Modifier %
+Mythic	
 To attempt a Mythic+ dungeon, players should bring:
 One tank
 One healer
@@ -62,6 +73,18 @@ AoE/cleave DPS and single-target DPS are both important. While trash does consti
 You cannot change talents or specs while inside the dungeon once you have begun. However, you can zone out of the dungeon and use a (Objet #141446) to change your talents before re-entering.
 Mythic+ Dungeon Guides
 Brush up on Mythic+ encounter mechanics with our Dungeon Strategy Guides - all Mythic-specific mechanics, including trash mechanics, are described in detail!
+Black Rook Hold
+Court of Stars
+Darkheart Thicket
+Eye of Azshara
+Halls of Valor
+Maw of Souls
+Neltharion's Lair
+The Arcway
+Vault of the Wardens
+Lower Karazhan
+Upper Karazhan
+Cathedral of Eternal Night
 Three new dungeons are added to Mythic+ in Patch 7.2. Note that Nightbane and his loot will not be part of Mythic+.
 Players should be prepared with gems, enchantments, flasks, potions, and appropriate stat food. While skipping trash mobs is less of an important part of the strategy than in Challenge Modes, (Objet #9172)s and (Objet #116268)s do still work in the dungeons and can be useful to skip particularly dangerous stretches of trash.
 Challenger's Burden
@@ -215,3 +238,46 @@ Level
 Lesser Dungeons (@AK 40)
 Medium Dungeons (@AK 40)
 Greater Dungeons (@AK 40)
+Dungeon descriptions:
+Lesser Dungeons: Maw of Souls
+Regular Dungeon: Blackrook Hold, Cathedral of Eternal Night, Court of Stars, Darkheart Thicket, Eye of Azshara, Upper and Lower Karazhan, Neltharion's Lair, Vault of the Wardens
+Greater Dungeons: Arcway, Halls of Valor
+There are also Artifact Power rewards from the Class Hall Chests awarded weekly.
+Level
+Minimum Item Level
+AP (@AK 40)
++ a
+token for every level after 10.
++ a 
+token (or equivalent AP token) for every level after 15.
+Gear
+Dungeon Chest drops are taken from the loot table for the dungeon the players have completed.
+Class Hall Chest drops may be from any dungeon, including dungeons you have not yet unlocked (e.g. Court of Stars/The Arcway) or dungeons that do not have a M+ mode (e.g. Violet Hold). This gear will be at least a Warforged version of the type of gear you would have gotten from your best Mythic+ dungeon - so for example, if you cleared a Mythic 5, you will get at least a Mythic 5 Warforged item. The chart below shows the minimum ilvl you will get from each source:
+In Patch 7.2.5, the Dungeon and Class Hall Chests will scale up to level 15 once Tomb opens. The item level cap is currently unknown and will be updated once Tomb releases.
+Level
+Dungeon Chest
+Class Hall Chest
+Regular Mythic
+All this loot has a chance to be Warforged or Titanforged, up to the titanforging cap. If an item appears up to 10 ilvls above the base, it will be marked as Warforged in the tooltip. If an item procs +15 or higher, it wll be marked as Titanforged. 
+Mythic+ Caches in 7.2.5 now reward 20 (Objet #151375), needed to upgrade your legendary to ilvl 970 in (Quête #47790).
+Achievements
+(Haut fait #11181): Complete all Legion dungeons on any Mythic+ level.
+(Haut fait #11183): Complete a Level 2 or higher Mythic+ dungeon.
+(Haut fait #11184): Complete a Level 5 or higher Mythic+ dungeon.
+(Haut fait #11185): Complete a Level 10 or higher Mythic+ dungeon.
+(Haut fait #11162): Complete a Level 15 Mythic+ dungeon. Rewards a tint of (Haut fait #10748)
+(Haut fait #11224): Be amongst the first party on your realm to complete a Level 15 Mythic+ dungeon.
+Appearances
+Below is a list of all tints associated with (Haut fait #11162):
+Death Knight
+Demon Hunter
+Druid
+Hunter
+Mage
+Monk
+Paladin
+Priest
+Rogue
+Shaman
+Warlock
+Warrior
