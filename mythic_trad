@@ -1,0 +1,217 @@
+The Mythic+ Dungeon system is a new mode of content that offers players an endlessly scaling challenge in 5-player dungeons. The system allows players to compete against a timer, similar to Challenge Modes, but has much more lenient times so that the emphasis is on solid execution rather than pure speed.
+Insert a Mythic Keystone into the Font of Power to begin
+Mythic+ Overview
+Completing a Mythic+ dungeon rewards epic gear at a higher base ilvl than any other source besides raiding
+Mythic+ dungeons have levels; a level 3 dungeon will be more difficult than a level 2, but less difficult than a level 5
+Enemies in the dungeons deal more damage and have higher health pools with each level your party conquers
+A higher-level Mythic+ dungeon rewards higher-ilvl loot
+At certain levels, the dungeon gains an "affix" that changes the way enemies will act, adding additional complexity to the content
+Each week, players will receive a guaranteed item of loot based upon their performance in the previous week's Mythic+ dungeon lockout
+All of the Legion dungeons have a Mythic+ mode, except for Assault on Violet Hold.
+Beginning a Mythic+ Dungeon
+In order to begin a Mythic+ dungeon, at least one player in the party must have a (Objet #138019).
+Set the dungeon difficulty to Mythic before entering the dungeon
+A Font of Power object will be present, similar to the Challenge Mode dungeon object
+The player with the Keystone must click on the Font of Power to open the Mythic+ UI
+Drag the Keystone from your bags into the socket in the center of the UI window
+Wait a few moments for the UI to update with the Keystone level and additional information about the dungeon
+Click the red "Activate" button at the bottom of the window
+This will force all players to reload their UI, place a ghostly green wall in front of the party, and begin a 10-second countdown timer. When this reaches 0, the wall is removed and the Mythic+ timer begins.
+Completing a Mythic+ Dungeon
+As in Challenge Modes in previous expansions, the players' aim is to defeat all of the bosses in the dungeon, as well as a set amount of trash, before the Mythic+ timer expires. 
+7.2.5 Update: The way that (Objet #138019) updates after completing or not completing a dungeon has changed.
+Keystones will no longer be depleted.
+Beating the timer rewards the party with a new, higher-level Keystone of a random dungeon, and a (Entité #252665) that contains 3 pieces of loot at an appropriate ilvl, plus a chance at more loot for Keystones over 15.
+If you miss the timer, don't give up!. You will still get the (Entité #252665) upon killing the final boss of the dungeon containing 2 pieces of loot, plus a chance at more loot for Keystones over 15.
+However, the (Objet #138019) will be for a random dungeon that is 1 level lower than the dungeon you just completed.
+If you don't complete the dungeon at all, you will have a Keystone that is one level lower for the same dungeon.
+A UI toast window will pop up when you complete the dungeon, displaying whether you beat the timer or not. This window also shows how many levels the Keystone is upgraded by if you successfully beat the timer.
+Mythic+ Lockouts
+The Mythic+ dungeon system has no lockouts.
+You can complete as many Mythic+ dungeons as you want, as long as at least one player in your party has a Mythic Keystone
+All completed Mythic+ dungeon runs will award the (Entité #252665) of loot depending on the level of the dungeon and whether or not you beat the timer.
+Even if you've already done the exact same dungeon or level (or both!), you can still receive loot
+Mythic+ dungeons do not share a lockout with "regular" Mythic dungeons - they are separate systems. You can do all of your Mythic dungeons for the week and still receive loot from Mythic+ dungeons, and vice versa.
+Patch 7.2.5 Changes
+Mythic Keystones Dungeons are getting a large overhaul in Patch 7.2.5. Here is a quick summary:
+The scaling of the dungeons will be increasing from 8% health and damage to 10% per level.
+Completing a dungeon will reward 2 pieces of loot as a base.
+One bonus piece of loot will be earned for completing the dungeon in time.
+A stacking 40% chance to get an additional piece of loot will be given for each Keystone level above 15.
+e.g. At level 20, you'll be guaranteed 4 pieces of loot, plus an additional piece if you beat the timer.
+Once Tomb unlocks, gear will scale up to Keystone level 15.
+Keystones can no longer be depleted and can be deleveled.
+Completing a dungeon on time will work the same way as in 7.2; you'll get a new Keystone for a random dungeon that's 1-3 levels higher.
+If you don't complete the dungeon in time, you'll get a new Keystone for a random dungeon that's 1 level lower.
+If you don't complete the dungeon at all, you'll get a new Keystone for the same dungeon that is 1 level lower.
+Party Composition and Preparation
+To attempt a Mythic+ dungeon, players should bring:
+One tank
+One healer
+Three DPS
+You cannot change party members once you have begun a Mythic+ dungeon. If one of your players disconnects, or leaves the group, the dungeon must be reset in order to refill the group. This will lower your Keystone by one level in Patch 7.2.5.
+Mythic+ dungeons, at least up to level 10, are balanced so that proper execution is a bigger factor in the party's success than any particular composition.
+That said, it is also beneficial to have at least one source of the following utility functions:
+(Sort #2825)/(Sort #32182)/(Sort #80353) or(Objet #120257)
+Battle Resurrection spells
+AoE and Single Target stuns
+Hard CC such as Polymorph
+Interrupts
+Offensive dispels
+AoE/cleave DPS and single-target DPS are both important. While trash does constitute the majority of a Mythic+ dungeon, the bosses can often become extremely dangerous, especially at higher Mythic+ levels, and quickly defeating them can be the difference between success and failure.
+You cannot change talents or specs while inside the dungeon once you have begun. However, you can zone out of the dungeon and use a (Objet #141446) to change your talents before re-entering.
+Mythic+ Dungeon Guides
+Brush up on Mythic+ encounter mechanics with our Dungeon Strategy Guides - all Mythic-specific mechanics, including trash mechanics, are described in detail!
+Three new dungeons are added to Mythic+ in Patch 7.2. Note that Nightbane and his loot will not be part of Mythic+.
+Players should be prepared with gems, enchantments, flasks, potions, and appropriate stat food. While skipping trash mobs is less of an important part of the strategy than in Challenge Modes, (Objet #9172)s and (Objet #116268)s do still work in the dungeons and can be useful to skip particularly dangerous stretches of trash.
+Challenger's Burden
+While inside a Mythic+ dungeon, all players are affected by (Sort #206151). Whenever a player dies, 5 seconds is removed from the timer as a penalty. The (Sort #206151) debuff forces the party to consider whether a "death run" - streaking past a long stretch of trash mobs only to die and be resurrected in a safe location beyond them - is strategically beneficial. In certain cases, such as the opening hallway in Black Rook Hold, the party may determine it is worth saving their potion cooldown (and using potions for 10 minutes), instead of killing the trash or using Invisibility potions.
+This also serves as an indicator to the party that they may not be ready for a certain Mythic+ level. If accidental deaths are too frequent, the party will run out its clock long before completing the dungeon. Players will either need to come back with better gear, or improve their techniques and strategies in order to succeed.
+Mythic Keystones
+A level 2 Keystone
+A level 7 Keystone has Affixes
+Mythic Keystones are special items that allow a player to begin a Mythic+ dungeon. Two examples of Mythic Keystones are shown to the right. The tooltip for these Keystones lists important information:
+The dungeon for which the Keystone is attuned
+The level of the Keystone
+Any affixes that might be in play for that dungeon (see below)
+The remaining duration on the Keystone item, which expires on the weekly dungeon lockout
+A player may only possess one Mythic Keystone at a time, and will only receive one keystone per week. Even if you delete your current Keystone, you will not receive a new one from any of the possible Keystone sources until the dungeon/raid week has passed. Do not delete Keystones - though note that, if you do accidentally delete your Keystone, you can recover it through the battle.net Item Restoration service.
+Acquiring the Keystone
+If you do not have a Keystone, there are three ways to obtain one:
+Complete a Mythic dungeon to receive a level 2 Keystone
+Participate in a Mythic+ dungeon using another player's Keystone to receive a Keystone
+Once you have done at least one Mythic+ dungeon, open the Grand Challenger's Bounty in your order hall after a weekly dungeon reset to receive a new Keystone
+The Keystone from the Grand Challenger's Bounty will be a percentage lower than the best Mythic+ dungeon you completed last week, or a Keystone Level 2, whichever is higher
+With the changes in Patch 7.2, each player will have their own keystone that cannot be depleted. If the level gets too high for your liking, you may lower the Keystone's level by 1 step at a time by starting the dungeon, and then resetting it. You are able to do this while solo.
+Upgrading the Keystone
+Keystones can be upgraded up to 3 levels based on your speed
+If you successfully complete a Mythic+ dungeon within the time allotted, the Keystone that was used to start the attempt will become upgraded by at least 1 level. The faster you clear the content, the larger the upgrade, up to a maximum of 3 levels higher.
+Beating the timer with less than 20% remaining (e.g. less than 6 minutes for a 30-minute dungeon) results in a +1 upgrade, e.g. from 3 to 4
+Beating the timer with more than 20% , but less than 40% remaining (e.g. less than 12 minutes, but more than 6, for a 30-minute dungeon), results in a +2 upgrade, e.g. from 3 to 5
+Beating the timer with more than 40% of the alloted time remaining (e.g. more than 12 minutes for a 30-minute dungeon) results in a +3 upgrade, e.g. from 3 to 6
+At the end of the dungeon run, the upgraded Keystone will be placed in the initiating player's bag. Each time a Keystone is upgraded it will select a new dungeon at random from the set of dungeons the initiating player has access to (Cathedral of Eternal Night does not follow this rule). For example, if the player who started the run has not yet unlocked The Arcway/Court of Stars dungeons, the Keystone will only choose from the remaining valid dungeons.
+Patch 7.2.5 Update:
+2 pieces of loot will drop for finishing the dungeon, plus an additional 1 piece of loot if the timer was cleared.
+Earning a +2 or +3 upgrade on a Keystone will no longer have any effect on the amount of loot dropped.
+Additional pieces of loot may be earned if doing Keystones over level 15.
+Depleted Keystone
+In Patch 7.2.5, Keystones can no longer be depleted!
+Mythic+ Affixes
+An affix is an additional property that affects the way enemies within the dungeon will behave. These affixes do not appear on low-level Mythic+ dungeons; the first affix is gained at level 4.
+If your Keystone has an affix listed on it, then all of the enemies in that Mythic+ dungeon will inherit this property.
+Keystone Level 4 - First Affix
+Affix information appears in the Objectives frame - this run featured the Sanguine affix
+At Mythic Keystone level 4, players will see their first affix. It will be printed on the keystone's tooltip, and information about it will appear both on the Font of Power menu and the Objectives frame (where the timer and kill count are displayed) during the dungeon run. The Level 4 affix will be drawn from the above pool and is chosen at random each week - all players who enter a Level 4+ Mythic+ dungeon will have the same affix.
+Keystone Level 7 - Second Affix
+At Mythic Keystone level 7, players will see a second affix added to their Keystone. This affix is chosen from the remaining 7 affixes in the above list or the following three affixes added in Patch 7.2:
+(Modificateur de donjon Mythique+ #13) - While in combat, enemies periodically summon Explosive Orbs that will detonate if not destroyed.
+(Modificateur de donjon Mythique+ #14) - Periodically, all players emit a shockwave, inflicting damage and interrupting nearby allies.
+(Modificateur de donjon Mythique+ #12) - When injured below 90% health, players will suffer increasing damage over time until healed above 90% health.
+This affix is also chosen at random each week - all players who enter a Level 7+ Mythic+ dungeon will have the same two affixes.
+Some combinations of affixes may not be "legal" - they may never show up because they would be too harsh. An example would be (Modificateur de donjon Mythique+ #7)/(Modificateur de donjon Mythique+ #5); this would create huge packs of trash that would all buff one another on death, leading to trash mobs that could be impossible to defeat.
+Keystone Level 10 - Third Affix
+At Mythic Keystone level 10, a new set of affixes is available, but consists of only two choices:
+(Modificateur de donjon Mythique+ #10) - Increases the health and damage of non-boss enemies.
+(Modificateur de donjon Mythique+ #9) - Increases the health and damage of boss enemies.
+This new affix is added to the existing level 4 and level 7 affixes, so level 10+ Keystones have three affixes in total. As with the level 4 and 7 affixes, these 10+ affixes are chosen at random each week, and all players who enter a Level 10+ Mythic+ Dungeon that week will have the same three affixes.
+The aim of these level 10+ affixes is to make the high-level Mythic+ dungeons noticeably more difficult, so that progressing beyond level 10 represents extreme dedication to this type of content. Mythic+ teams who wish to push beyond Mythic+ level 10 are likely to require specific group compositions and use highly refined strategies. Currently, loot does not improve past level 10, and players do not need to beat the level 10 timer to achieve the greatest possible loot reward from Mythic+ content, so all specs and classes should be able to compete for the best loot available.
+Affix Details
+For more information on any particular affix, click on the corresponding tab below.
+Bolstering
+Enemies who die will buff other nearby enemies with (Sort #209859), causing them to gain 20% health and deal 20% additional damage. This can stack multiple times, resulting in an extremely dangerous enemy that will take a long time to defeat. The range on the buffing ability is 30 yards in 7.2. In addition, mobs affected by the (Sort #209859) buff will become immune to many types of CC (though they are still vulnerable to stuns).
+This affix causes the end of a trash fight to be more dangerous than the start. Players should follow these general guidelines:
+Do not pull multiple trash packs at once, so that the maximum stack size of (Sort #209859) stays low
+Attempt to DPS the enemies down evenly
+However, if there is a priority target, such as the Wrathguard Bladelord in Black Rook Hold, it may still be beneficial to focus fire and kill these targets first
+The healer will need to use cooldowns on the tank if possible when an enemy has high stacks of (Sort #209859)
+The (Modificateur de donjon Mythique+ #7) affix does not apply to adds in a boss encounter. For example, killing the Risen Warriors in the Mythic+ Ymiron fight in Maw of Souls should not apply (Sort #209859) to Ymiron or any of the other Risen Warriors. However, if players drag trash packs into a boss fight, those trash mobs will apply (Sort #209859) to the boss when they die. This is undesirable. If players wish to save time by dragging trash into a boss fight, be sure to pull the trash more than 30 yards away from the boss before killing it.
+Necrotic
+Successful melee attacks will apply the (Sort #209858) debuff to the struck player, reducing the potency of healing and absorption shields by 3% per stack, and dealing stacking damage. The (Sort #209858) debuff lasts for 9 seconds in 7.2, but the duration of the debuff is refreshed each time a new stack is applied, so it will be very difficult for tanks to drop their stacks while actively in combat. (Sort #209858) is removed upon dropping combat.
+This can stack very rapidly on large trash packs, and can be a nuisance on boss fights. Players should follow these general guidelines:
+Do not pull multiple trash packs at once
+Use AoE CCs, such as stuns, knockbacks, and slows, to allow the tank to kite effectively at high stacks of (Sort #209858)
+During boss fights, a non-tank player with a taunt ability can taunt the boss away from the tank to allow (Sort #209858) to fall off
+At very high Keystone levels, groups may wish to bring two tanks to help manage the (Sort #209858) debuff.
+Quaking
+When the (Modificateur de donjon Mythique+ #14) affix is active, at random times throughout the dungeon (regardless of combat) all players will receive the (Sort #240447) debuff and upon expiry inflict damage and interrupting active spell casts to themselves and nearby allies. 
+(Sort #240447) can apply when running between bosses and will continue to occur after the dungeon is completed. If your party's composition is melee heavy, make sure to spread out the circles whenever (Sort #240447) is applied.
+Raging
+The (Modificateur de donjon Mythique+ #6) affix causes enemies to (Sort #178658) at 30% health, dealing 100% additional damage until they are defeated.
+When this affix is active, AoE and cleave damage can be dangerous. Be sure to mark a priority target in each pull, and when that target (Sort #178658)s, focus fire to bring it down quickly. Stuns and other forms of CC can be used to reduce the damage the party will take from (Sort #178658)d mobs.
+Sanguine
+A pool of Sanguine Ichor
+Whenever a non-boss enemy dies, a pool of (Sort #226489) forms at its location. This spell has two effects:
+(Sort #226510) heals enemies standing within it for 5% of their health each second
+(Sort #226512) deals damage to players standing within it for 15% of their health each second
+Tanks must pull the remaining mobs away from the location of the (Sort #226489) pool, and melee DPS must be cautious. It does take several seconds for the (Sort #226489) to form, so there is plenty of time to react and avoid damage.
+This affix is particularly difficult when fighting large groups of trivial adds, and may require tanks to clear additional space or pull enemies back into previously cleared areas so there is room to kite. This is also a difficult mechanic in any area where the predominant floor color is red - particularly in the Oakheart-to-Dresaron stretch of Darkheart Thicket.
+In 7.2, Sanguine pools have been changed to apply their first damage tick immediately. This means that it's more important to place the pools of sanguine in safe locations so that the group may traverse the dungeon without taking a large amount of damage from crossing the sanguine pools after combat has ended.
+Skittish
+The (Modificateur de donjon Mythique+ #2) affix causes tank threat to be less potent, meaning that DPS players are likely to pull threat off of the tank if not careful. Tanks should mark a priority target on which they will be focusing the brunt of their attacks, and DPS should try to avoid dealing too much damage to the non-priority targets.
+Hunters and Rogues should help the tank by using (Sort #34477) and (Sort #57934) respectively.
+Teeming
+In a (Modificateur de donjon Mythique+ #5) dungeon, the number of trash mobs that players must kill in order to meet the "Enemy Forces" requirement is increased to accommodate the additional trash.
+The (Modificateur de donjon Mythique+ #5) affix causes extra mobs to spawn in particular trash packs. Not every pack is affected, but many of the most dangerous trash packs are.
+Explosive
+The (Modificateur de donjon Mythique+ #13) affix causes enemies that you are currently in combat with to spawn Fel Explosives within 3 yards of its current location. These Fel Explosives will begin to cast (Sort #240446) and if successful, will detonate dealing a significant amount of damage. Fel Explosives have a very small amount of HP but are completely immune to AoE spells such as (Sort #190356) and (Sort #191034). 
+Since every monster has a chance to spawn Fel Explosives, be careful about pulling too many monsters at a time. If you pull too many, you might spend all your time killing Fel Explosives and not actually hitting the monsters themselves!
+These orbs are the top priority for all players!
+Grievous
+The (Modificateur de donjon Mythique+ #12) affix is particularly dangerous against monsters that deal consistant AoE damage. When a player falls below 90% health, the (Sort #240559) DoT is applied and begins to stack every couple of seconds until the player reaches full health. These stacks will cap at 5 but it's important for the healer to remove these as soon as possible to avoid falling behind. DPS should avoid taking as much damage as possible this week, since taking damage is extra punishing due to the (Sort #240559) debuff.
+Bursting
+(Modificateur de donjon Mythique+ #11), is essentially one of the main mechanics from Mythic: Il'gynoth in the Emerald Nightmare. Whenever a monster is killed, all players will get a stack of (Sort #240443) which will stack. One or two stacks will not be deadly, but killing an entire pack of 8 packs simultaneously will probably end up killing the party. 
+During (Modificateur de donjon Mythique+ #11), it's important to stagger the deaths of the enemy forces so that the debuff doesn't stack up too high. Be careful not to use too many AoE abilities and kill the monsters too soon.
+Immunity abilities such as (Sort #31224) and (Sort #45438) will remove all current stacks and prevent future stacks from applying.
+Volcanic
+A Volcanic Plume
+Move before it erupts
+Enemies in a (Modificateur de donjon Mythique+ #3) dungeon will cause (PNJ #105877)s to spawn beneath the feet of distant players. Two seconds later, the (Sort #209862) will erupt, dealing damage equal to 50% of the player's health to any player standing within 2 yards of the Plume. Both boss and trash mobs will cause Volcanic Plumes to form.
+When fighting a single enemy, a (PNJ #105877) will form approximately every 10 seconds.
+Note that "distant" refers to the distance from the enemy mob. In most cases, melee DPS and tanks do not have to worry about this mechanic, and if ranged DPS and healers stand close to the enemies, (PNJ #105877)s may not spawn. However, if there is an enemy that leaps away, or an add that spawns far from its summoner, (PNJ #105877)s may begin to appear in melee range. This can occur during the following notable fights:
+During the Inquisitor Tormentorum encounter in the Vault of the Wardens, due to the Tormenting Orbs
+Fighting Valarjar Marksman in the Halls of Valor
+Fighting Rockbound Trappers in Neltharion's Lair, or during the Naraxas encounter
+(Sort #209862)s can be difficult to see during bright or busy ground effects. Players should move out of the (Sort #209862) immediately upon noticing it, and may wish to preemptively move during mechanics such as Eye of the Storm in the Hyrja encounter, where constant unavoidable damage combined with the (Sort #209862) hit could cause a fatality.
+Fortified
+(Modificateur de donjon Mythique+ #10) is multiplicative with the Mythic+ damage and health modifiers
+This affix will only affect Keystones of level 10 or higher. In a (Modificateur de donjon Mythique+ #10) dungeon, all of the trash mobs have 20% more health and deal 30% additional damage.
+Avoid pulling excessive trash packs
+Use AoE CC and stuns liberally to reduce damage
+Focus on priority targets
+Tanks may need to kite enemies more frequently
+Multiple tanks may be preferred for certain dungeons with particularly dangerous trash pulls
+(Modificateur de donjon Mythique+ #10)'s damage and health bonuses are multiplicative with the Mythic+ damage and health bonuses shown in the table above. This means that on Mythic +10, the trash will all have 140% additional health and deal 180% additional damage. Certain trash packs may be able to one-shot party members with their mechanics under this affix; for example, the (PNJ #96664) in (Zone #7672) may instantly kill players with (Sort #198962) if it is allowed to cast. Interrupts and performing trash mechanics properly are very important!
+(Modificateur de donjon Mythique+ #10) is particularly dangerous in combination with (Modificateur de donjon Mythique+ #7), (Modificateur de donjon Mythique+ #6), or (Modificateur de donjon Mythique+ #5) affixes.
+Tyrannical
+(Modificateur de donjon Mythique+ #9) greatly increases thedanger of boss fights
+This affix will only affect Keystones of level 10 or higher. In a (Modificateur de donjon Mythique+ #9) dungeon, all of the bosses have 40% more health and deal 15% additional damage.
+This can cause many extremely dangerous abilities to one-shot the party if health levels are not high enough
+Serves as an additional gear check to these dungeons
+Tanks may need to kite bosses more frequently
+Multiple tanks may be preferred for certain dungeons with particularly threatening boss mechanics
+(Modificateur de donjon Mythique+ #9)'s damage and health bonuses are multiplicative with the Mythic+ damage and health bonuses shown in the table above. This means that on Mythic +10, bosses will all have 180% additional health and deal 140% additional damage. Certain bosses that gain percent-based damage modifiers during the course of their encounter pose particular problems in (Modificateur de donjon Mythique+ #9) dungeons:
+(Zone #7805): Smashspite's Brutal Haymaker debuff increases the damage the tank takes by 75%, and may cause (Sort #198073) or melee attacks to be fatal
+(Zone #8079): Advisor Melandrus's (Sort #209676) will become unsurvivable with just a few (PNJ #105754) spawns
+(Zone #7673): Shade of Xavius's (Sort #200185) may one-shot players without active defensive cooldowns, especially if he gains any stacks of (Sort #221315)
+(Zone #7672): Hyrja's (Sort #191976) and (Sort #192048) abilities may one-shot while she has 4+ stacks of (Sort #192132) or (Sort #192133)
+(Zone #7812): Ymiron's (Sort #193211) is extremely powerful under (Modificateur de donjon Mythique+ #9) and may require external cooldowns for the tank to survive
+Loot
+There are two types of loot associated with Mythic+ Dungeons: a chest at the end of the instance, and a chest from your Class Hall the week after.
+At the end of a successful run, a chest (or several chests) will appear that all players can loot.
+The loot is personal, so each player should loot it to see what their reward is
+Two pieces of loot are guaranteed, but may be distributed amongst the party randomly
+Players who receive loot will receive items that are appropriate to their class/spec
+These items can be traded to other eligible players in the party, if they are not an ilvl upgrade for the player who won them
+Artifact Power rewards are receiving some updates in Patch 7.2:
+Mythic Keystones can now direct you to, Lower Karazhan, Upper Karazhan, and the new in 7.2 dungeon. Cathedral of Eternal Night.
+This may be subject to change, so keep in mind that it's not final. But, supposedly the longer a dungeon is it's timer is increased proportionately to its length (i.e., a long dungeon like kara should have a longer time limit, and so on).
+Artifact Power rewards for Mythic Keystone dungeons have been adjusted:
+Longer dungeons, such as Halls of Valor, now award a proportionately higher amount of Artifact Power.
+Shorter dungeons, such as Maw of Souls, now award a proportionately lower amount of Artifact Power.
+Artifact Power bonuses have been added to your weekly chest rewards. These increase based on the highest level Mythic Keystone you completed.
+Artifact Power
+Here is the detailed breakdown of what dungeons reward what type of Artifact Power:
+Level
+Lesser Dungeons (@AK 40)
+Medium Dungeons (@AK 40)
+Greater Dungeons (@AK 40)
